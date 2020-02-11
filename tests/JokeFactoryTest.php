@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Deemantha\Jokespack\Tests;
+namespace Deemanthach\Jokespack\Tests;
 
 
-use Deemantha\Jokespack\JokesFactory;
+use Deemanthach\Jokespack\JokesFactory;
 use PHPUnit\Framework\TestCase;
 
 class JokeFactoryTest extends TestCase

@@ -1,23 +1,23 @@
 {
-    "name": "deemantha/jokes-pack",
+    "name": "deemanthach/jokes-pack",
     "description": "this is the very first package wuith marcel's package development",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "deemantha",
+            "name": "deemanthach",
             "email": "deemantha@creativehandles.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Deemantha\\Jokespack\\": "src/"
+            "Deemanthach\\Jokespack\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Deemantha\\Jokespack\\Tests\\": "tests"
+            "Deemanthach\\Jokespack\\Tests\\": "tests"
         }
     },
     "require-dev": {

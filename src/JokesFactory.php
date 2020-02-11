@@ -1,6 +1,6 @@
 <?php
 
-namespace Deemantha\Jokespack;
+namespace Deemanthach\Jokespack;
 
 
 

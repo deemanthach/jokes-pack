@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Deemantha\Jokespack\Jokes;
+namespace Deemanthach\Jokespack\Jokes;
 
 
 class Jokes
