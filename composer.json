@@ -1,0 +1,26 @@
+{
+    "name": "deemantha/jokes-pack",
+    "description": "this is the very first package wuith marcel's package development",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "deemantha",
+            "email": "deemantha@creativehandles.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Deemantha\\Jokespack\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Deemantha\\Jokespack\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
