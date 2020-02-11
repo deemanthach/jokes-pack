@@ -9,7 +9,6 @@
             "email": "deemantha@creativehandles.com"
         }
     ],
-    "require": {},
     "autoload": {
         "psr-4": {
             "Deemanthach\\Jokespack\\": "src/"
